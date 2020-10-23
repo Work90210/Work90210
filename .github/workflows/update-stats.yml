@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 00:00AM UTC
-    - cron: '30 18 * * *'
+    - cron: '25 10 * * *'
 
 jobs:
   update-readme:
@@ -18,9 +18,3 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
           LOCALE: "en"
-          SHOW_COMMIT: "True"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_OS: "True"
-          SHOW_EDITORS: "True"
-          SHOW_SHORT_INFO: "True"
