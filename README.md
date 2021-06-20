@@ -71,7 +71,7 @@ const kyle = {
  > 
 > 💼 Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 10 Public Repositories 
  > 
 > 🔑 10 Private Repositories  
  > 
