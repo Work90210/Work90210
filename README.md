@@ -104,13 +104,13 @@ Sunday       20 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     49 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  49 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      49 mins             █████████████████████████   100.0%
 
 ```
 
