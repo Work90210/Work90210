@@ -65,7 +65,7 @@ const kyle = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 196 Contributions in the Year 2021
+> 🏆 195 Contributions in the Year 2021
  > 
 > 📦 350.2 kB Used in GitHub's Storage 
  > 
