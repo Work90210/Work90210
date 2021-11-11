@@ -73,7 +73,7 @@ const kyle = {
  > 
 > 📜 10 Public Repositories 
  > 
-> 🔑 12 Private Repositories  
+> 🔑 13 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
