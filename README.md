@@ -59,15 +59,17 @@ const kyle = {
 </br>
 </br>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%208%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.8%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 215 Contributions in the Year 2021
  > 
-> 📦 434.2 kB Used in GitHub's Storage 
+> 📦 434.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -104,15 +106,18 @@ Sunday       22 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Johannesburg
 
 💬 Programming Languages: 
-Dart                     9 hrs 5 mins        ████████████████████████░   97.14% 
-YAML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Dart                     39 mins             ██████████████████░░░░░░░   74.76% 
+YAML                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   22.65% 
+SCSS                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 🔥 Editors: 
-VS Code                  9 hrs 21 mins       █████████████████████████   100.0%
+VS Code                  52 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      9 hrs 21 mins       █████████████████████████   100.0%
+Mac                      51 mins             ████████████████████████░   97.43% 
+Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.57%
 
 ```
 
@@ -133,5 +138,5 @@ CSS                      2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Work90210/Work90210/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/12/2021
+ Last Updated on 05/12/2021
 <!--END_SECTION:waka-->
