@@ -59,7 +59,7 @@ const kyle = {
 </br>
 </br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -67,7 +67,7 @@ const kyle = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 212 Contributions in the Year 2021
+> 🏆 213 Contributions in the Year 2021
  > 
 > 📦 366.4 kB Used in GitHub's Storage 
  > 
