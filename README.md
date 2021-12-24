@@ -59,7 +59,7 @@ const kyle = {
 </br>
 </br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-319%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-319%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -69,7 +69,7 @@ const kyle = {
 
 > 🏆 213 Contributions in the Year 2021
  > 
-> 📦 366.4 kB Used in GitHub's Storage 
+> 📦 366.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -124,8 +124,8 @@ Mac                      1 hr 2 mins         ███████████�
 CSS                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
 JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
 Hack                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Objective-C              1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+Objective-C              1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
 
