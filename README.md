@@ -69,7 +69,7 @@ const kyle = {
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 366.4 kB Used in GitHub's Storage 
+> 📦 366.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
