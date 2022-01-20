@@ -22,10 +22,10 @@
 ```javascript
 const kyle = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Dart", "HTML", "CSS"],
-    askMeAbout: ["web dev", "tech", "app dev",],
+    code: ["Javascript", "Typescript", "Dart", "HTML", "CSS", "PHP", "Python"],
+    askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
-        mobileApp: ["flutter"],
+        mobileApp: ["Flutter", "React Native", "NativeScript"],
         frontEnd: {
             js: ["Angular", "React"],
             css: ["materialize", "vuetify", "bootstrap"]
@@ -35,7 +35,7 @@ const kyle = {
         }
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Currently learning python "
+    currentFocus: "Currently learning python"
 };
 ```
 
@@ -59,7 +59,6 @@ const kyle = {
 </br>
 </br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
