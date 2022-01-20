@@ -3,7 +3,7 @@
   <abc>
     <br />Hi, I'm Kyle Fuhri<br />
     <br />
-    I'm a Frontend Web Developer. <br />
+    I'm a Flutter Mobile Developer. <br />
     <br />
     <img
       src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
