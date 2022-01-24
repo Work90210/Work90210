@@ -59,7 +59,7 @@ const kyle = {
 </br>
 </br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -69,7 +69,7 @@ const kyle = {
 
 > 🏆 2 Contributions in the Year 2022
  > 
-> 📦 367.0 kB Used in GitHub's Storage 
+> 📦 367.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -137,5 +137,5 @@ Objective-C              1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Work90210/Work90210/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/01/2022 21:12:49 UTC
+ Last Updated on 24/01/2022 21:50:58 UTC
 <!--END_SECTION:waka-->
