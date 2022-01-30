@@ -59,7 +59,7 @@ const kyle = {
 </br>
 </br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-412%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -73,7 +73,7 @@ const kyle = {
  > 
 > 💼 Opted to Hire
  > 
-> 📜 4 Public Repositories 
+> 📜 5 Public Repositories 
  > 
 > 🔑 14 Private Repositories  
  > 
@@ -124,11 +124,11 @@ Windows                  1 hr 33 mins        █░░░░░░░░░░�
 **I Mostly Code in CSS** 
 
 ```text
-CSS                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Hack                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Objective-C              1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+CSS                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Hack                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Dart                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 
 ```
 
@@ -138,5 +138,5 @@ Objective-C              1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Work90210/Work90210/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/01/2022 09:58:31 UTC
+ Last Updated on 30/01/2022 10:13:50 UTC
 <!--END_SECTION:waka-->
