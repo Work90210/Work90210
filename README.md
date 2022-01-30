@@ -61,13 +61,13 @@ const kyle = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-420%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 3 Contributions in the Year 2022
+> 🏆 6 Contributions in the Year 2022
  > 
 > 📦 367.3 kB Used in GitHub's Storage 
  > 
@@ -138,5 +138,5 @@ Dart                     2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Work90210/Work90210/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/01/2022 21:15:07 UTC
+ Last Updated on 30/01/2022 21:44:57 UTC
 <!--END_SECTION:waka-->
