@@ -59,7 +59,7 @@ const kyle = {
 </br>
 </br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-606%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-606%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -138,5 +138,5 @@ TypeScript               2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Work90210/Work90210/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/03/2022 11:34:49 UTC
+ Last Updated on 31/03/2022 13:09:11 UTC
 <!--END_SECTION:waka-->
