@@ -59,6 +59,8 @@ const kyle = {
 </br>
 </br>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-646%20hrs%2020%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-85%20Thousand%20lines%20of%20code-blue)
@@ -104,15 +106,15 @@ Sunday       22 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-Dart                     5 hrs 29 mins       █████████████████████░░░░   87.46% 
-JSON                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54%
+Dart                     7 hrs 48 mins       ██████████████████████░░░   90.13% 
+JSON                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.87%
 
 🔥 Editors: 
-VS Code                  6 hrs 16 mins       █████████████████████████   100.0%
+VS Code                  8 hrs 39 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      3 hrs 58 mins       ███████████████░░░░░░░░░░   62.85% 
-Windows                  2 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.15%
+Windows                  6 hrs 1 min         █████████████████░░░░░░░░   69.13% 
+Mac                      2 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   30.87%
 
 ```
 
@@ -133,5 +135,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Work90210/Work90210/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/04/2022 23:10:01 UTC
+ Last Updated on 20/04/2022 00:30:29 UTC
 <!--END_SECTION:waka-->
