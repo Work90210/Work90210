@@ -67,6 +67,8 @@ const kyle = {
 
 **🐱 My GitHub Data** 
 
+> 🏆 35 Contributions in the Year 2022
+ > 
 > 📦 370.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -134,5 +136,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Work90210/Work90210/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/05/2022 22:01:41 UTC
+ Last Updated on 16/05/2022 22:24:10 UTC
 <!--END_SECTION:waka-->
