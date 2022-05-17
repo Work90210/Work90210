@@ -59,15 +59,13 @@ const kyle = {
 </br>
 </br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-678%20hrs%2059%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-85%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 35 Contributions in the Year 2022
+> 🏆 38 Contributions in the Year 2022
  > 
 > 📦 371.0 kB Used in GitHub's Storage 
  > 
@@ -113,6 +111,10 @@ YAML                     2 mins              ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  5 hrs 19 mins       █████████████████████████   100.0%
 
+🐱‍💻 Projects: 
+smarthome-mobile         5 hrs 18 mins       █████████████████████████   99.96% 
+flutter_sdk              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+
 💻 Operating System: 
 Windows                  4 hrs 59 mins       ███████████████████████░░   93.08% 
 Mac                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.92%
@@ -136,5 +138,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Work90210/Work90210/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/05/2022 13:53:42 UTC
+ Last Updated on 17/05/2022 14:05:15 UTC
 <!--END_SECTION:waka-->
