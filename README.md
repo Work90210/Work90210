@@ -59,13 +59,13 @@ const kyle = {
 </br>
 </br>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-267%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-588%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 38 Contributions in the Year 2022
+> 🏆 42 Contributions in the Year 2022
  > 
 > 📦 370.9 kB Used in GitHub's Storage 
  > 
@@ -124,11 +124,11 @@ Mac                      22 mins             █░░░░░░░░░░�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   26.67% 
-CSS                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Hack                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+Dart                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+CSS                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+Hack                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 
 ```
 
@@ -138,5 +138,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Work90210/Work90210/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/05/2022 14:56:38 UTC
+ Last Updated on 17/05/2022 15:04:27 UTC
 <!--END_SECTION:waka-->
