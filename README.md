@@ -54,8 +54,8 @@ const kyle = {
 </br>
 
 
-![Work90210's github stats](https://github-readme-stats.vercel.app/api?username=work90210)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=work90210)](https://github.com/work90210/github-readme-stats)
+![Work90210's github stats](https://github-readme-stats-work90210.vercel.app/api?username=work90210)
+[![Top Langs](https://github-readme-stats-work90210.vercel.app/api/top-langs/?username=work90210)](https://github.com/work90210/github-readme-stats)
 </br>
 </br>
 <!--START_SECTION:waka-->
