@@ -59,22 +59,23 @@ const kyle = {
 </br>
 </br>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-orange)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-588%20Thousand%20lines%20of%20code-blue)
 
-**📊 Global GitHub data** 
+**🐱 My GitHub Data** 
 
-```text
-🏆 42 contributions in 2022
-
-📦 409.0 kB used in GitHub's storage 
-
-📜 6 Public Repositories 
-
-🔑 16 Private Repositories  
+> 🏆 42 Contributions in the Year 2022
  > 
-**I'm an early 🐤** 
+> 📦 409.0 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 16 Private Repositories  
+ > 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    83 commits     ████████░░░░░░░░░░░░░░░░░   34.58% 
@@ -83,7 +84,7 @@ const kyle = {
 🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25%
 
 ```
-📅 **I'm most productive on Monday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday       43 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.92% 
@@ -97,7 +98,7 @@ Sunday       22 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Europe/Lisbon
@@ -125,7 +126,7 @@ Mac                      3 hrs 32 mins       ███████░░░░�
 
 ```
 
-**💻 I mostly code in Dart** 
+**I Mostly Code in Dart** 
 
 ```text
 Dart                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
@@ -142,5 +143,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Work90210/Work90210/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 07:58:47 UTC
+ Last Updated on 12/06/2022 08:19:04 UTC
 <!--END_SECTION:waka-->
