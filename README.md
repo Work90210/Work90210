@@ -104,16 +104,18 @@ Sunday       22 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Lisbon
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     1 hr 16 mins        ████████████████████████░   97.14% 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 18 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+smarthome-mobile         1 hr 18 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 18 mins        █████████████████████████   100.0%
 
 ```
 
@@ -134,5 +136,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Work90210/Work90210/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/07/2022 23:02:50 UTC
+ Last Updated on 18/07/2022 23:24:06 UTC
 <!--END_SECTION:waka-->
