@@ -59,7 +59,7 @@ const kyle = {
 </br>
 </br>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-588%20Thousand%20lines%20of%20code-blue)
 
@@ -67,7 +67,7 @@ const kyle = {
 
 > 🏆 42 Contributions in the Year 2022
  > 
-> 📦 410.6 kB Used in GitHub's Storage 
+> 📦 410.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -140,5 +140,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Work90210/Work90210/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/08/2022 00:03:56 UTC
+ Last Updated on 03/08/2022 02:28:58 UTC
 <!--END_SECTION:waka-->
