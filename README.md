@@ -1,9 +1,9 @@
 
 <h3 align="center">
   <abc>
-    <br />Hi, I'm Kyle Fuhri<br />
+    <br />Hi, I'm Kyle Fuehri<br />
     <br />
-    I'm a Flutter Mobile Developer. <br />
+    I'm a Senior Flutter Mobile Developer. <br />
     <br />
     <img
       src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
